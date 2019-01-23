@@ -1,0 +1,2 @@
+40782324	Pucagio, Fernando                        	12/3/1998	A	12/5/2016	INF  	12	12/8/2017    Descripcion: Sexo  Invalido
+42783624	Puca, Seo Fernando                       	12/3/-1998	M	12/5/2016	INF  	12	12/3/1998    Descripcion: Sexo Fecha de Nacimiento  Invalido
