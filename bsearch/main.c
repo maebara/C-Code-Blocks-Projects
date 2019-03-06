@@ -8,7 +8,7 @@ int main()
     int vec[10] = {1,2,3,-4,5,6,7,8};
     int ce = 8;
     int num = 3;
-    int pos = mi_bsearch(vec, ce, a);
+    int pos = mi_bsearch(vec, ce, num);
   
     printf("posicion del elemento 3: %d", pos);
   
